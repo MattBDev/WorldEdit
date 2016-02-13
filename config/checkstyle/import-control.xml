@@ -48,7 +48,6 @@
     </subpackage>
 
     <subpackage name="forge">
-      <allow pkg="codechicken.multipart"/>
       <allow pkg="cpw"/>
       <allow pkg="net.minecraft"/>
       <allow pkg="net.minecraftforge"/>
