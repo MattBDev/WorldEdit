@@ -294,7 +294,7 @@ public final class CompoundTag extends Tag {
      *
      * <p>If the key does not exist or its value is not a list tag,
      * then an empty list will be returned. If the given key references
-     * a list but the list of of a different type, then an empty
+     * a list but the list of a different type, then an empty
      * list will also be returned.</p>
      *
      * @param key the key
@@ -320,7 +320,7 @@ public final class CompoundTag extends Tag {
     /**
      * Get a {@code long[]} named with the given key.
      *
-     * <p>If the key does not exist or its value is not an long array tag,
+     * <p>If the key does not exist or its value is not a long array tag,
      * then an empty array will be returned.</p>
      *
      * @param key the key
